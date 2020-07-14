@@ -28,6 +28,6 @@ fi
 4. Build the project to see some swift-lint warnings
 
 5. Add a swift-lint badge to your github project:
-  [![SwiftLint tirupati17](https://img.shields.io/badge/SwiftLint-tirupati17-brightgreen)](https://github.com/tirupati17/swiftlint-tirupati)  
+[![SwiftLint tirupati17](https://img.shields.io/badge/SwiftLint-tirupati17-brightgreen)](https://github.com/tirupati17/swiftlint-tirupati)  
 
 
